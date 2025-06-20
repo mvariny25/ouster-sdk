@@ -1,4 +1,0 @@
-[submodule "sdk-extensions"]
-	path = sdk-extensions
-	url = https://github.com/ouster-lidar/sdk-extensions.git
-	branch = master
